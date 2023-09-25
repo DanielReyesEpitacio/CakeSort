@@ -1,0 +1,11 @@
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.csproj.AssemblyReference.cache
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.Form1.resources
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.Properties.Resources.resources
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.csproj.GenerateResource.cache
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.csproj.CoreCompileInputs.cache
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\bin\Debug\CakeSort.exe.config
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\bin\Debug\CakeSort.exe
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\bin\Debug\CakeSort.pdb
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.exe
+C:\Users\AthlonDev2023\Downloads\CakeSort\CakeSort\obj\Debug\CakeSort.pdb
